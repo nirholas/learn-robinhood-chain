@@ -98,8 +98,4 @@ No GitHub Actions workflow is used or required — `docs/` is a pre-built, commi
 
 ## License
 
-Apache-2.0 © 2026 nirholas — see [LICENSE](./LICENSE).
-
----
-
-Built by [nirholas](https://x.com/nichxbt) · [three.ws](https://three.ws)
+All rights reserved. See [LICENSE](LICENSE).
