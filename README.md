@@ -4,7 +4,7 @@
 
 Twelve tutorials, zero to shipping an autonomous agent, every one of them performed on real mainnet/testnet data during the build — not described secondhand. Static site, self-contained, no CDN dependencies, deploys to GitHub Pages from `docs/`.
 
-**Live site:** `https://nirholas.github.io/learn-robinhood-chain/` (after Pages setup — see below)
+**Live site:** <https://nirholas.github.io/learn-robinhood-chain/>
 
 ## How to use this course
 
