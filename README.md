@@ -99,3 +99,7 @@ No GitHub Actions workflow is used or required — `docs/` is a pre-built, commi
 ## License
 
 All rights reserved. See [LICENSE](LICENSE).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/learn-robinhood-chain&type=Date)](https://www.star-history.com/#nirholas/learn-robinhood-chain&Date)
