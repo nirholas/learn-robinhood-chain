@@ -1,0 +1,28 @@
+# learn-robinhood-chain
+
+> The definitive learning site for Robinhood Chain: from your first RPC read to shipping an autonomous agent. Every tutorial verified on-chain.
+
+learn-robinhood-chain is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/learn-robinhood-chain/blob/HEAD/README.md): install, usage and reference
+- [How to use this course](https://github.com/nirholas/learn-robinhood-chain/blob/HEAD/README.md#how-to-use-this-course)
+- [Prerequisites](https://github.com/nirholas/learn-robinhood-chain/blob/HEAD/README.md#prerequisites)
+- [Table of contents](https://github.com/nirholas/learn-robinhood-chain/blob/HEAD/README.md#table-of-contents)
+- [Local preview](https://github.com/nirholas/learn-robinhood-chain/blob/HEAD/README.md#local-preview)
+- [Architecture](https://github.com/nirholas/learn-robinhood-chain/blob/HEAD/README.md#architecture)
+- [Adding a tutorial](https://github.com/nirholas/learn-robinhood-chain/blob/HEAD/README.md#adding-a-tutorial)
+- [The honesty standard this repo holds itself to](https://github.com/nirholas/learn-robinhood-chain/blob/HEAD/README.md#the-honesty-standard-this-repo-holds-itself-to)
+- [One-time GitHub Pages setup](https://github.com/nirholas/learn-robinhood-chain/blob/HEAD/README.md#one-time-github-pages-setup)
+- [AGENTS.md](https://github.com/nirholas/learn-robinhood-chain/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/learn-robinhood-chain/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/learn-robinhood-chain)
+- [Issues](https://github.com/nirholas/learn-robinhood-chain/issues)
+- [Discussions](https://github.com/nirholas/learn-robinhood-chain/discussions)
+- [Homepage](https://nirholas.github.io/learn-robinhood-chain/)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)

@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "learn-robinhood-chain"
+abstract: "The definitive learning site for Robinhood Chain: from your first RPC read to shipping an autonomous agent. Every tutorial verified on-chain."
+repository-code: "https://github.com/nirholas/learn-robinhood-chain"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
